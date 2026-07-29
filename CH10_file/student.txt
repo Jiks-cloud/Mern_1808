@@ -1,0 +1,12 @@
+---Student 1---
+Name: JIYA
+Age: 20
+Marks: 85.00
+---Student 2---
+Name: JIMIT
+Age: 21
+Marks: 95.00
+---Student 3---
+Name: DHYEY
+Age: 20
+Marks: 89.00
